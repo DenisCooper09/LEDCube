@@ -1,0 +1,2 @@
+# LEDCube
+LED cube controller.
