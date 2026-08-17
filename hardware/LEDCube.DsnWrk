@@ -1,2 +1,6 @@
 [ProjectGroup]
 Version=1.0
+[Project1]
+ProjectPath=LEDCube_8x8x8\LEDCube_8x8x8.PrjPcb
+[Project2]
+ProjectPath=LEDCube_Library\LEDCube_Library.LibPkg
